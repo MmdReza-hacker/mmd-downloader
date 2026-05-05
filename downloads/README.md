@@ -1,8 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [VSCodeUserSetup-x64-1.118.1](./VSCodeUserSetup-x64-1.118.1)
-- [download](./download)
-- [win](./win)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
