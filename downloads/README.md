@@ -16,6 +16,7 @@
 - [setup_eSpeakPlus_v1.1](./setup_eSpeakPlus_v1.1)
 - [source](./source)
 - [target](./target)
+- [vocab](./vocab)
 
 ---
 
