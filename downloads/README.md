@@ -12,6 +12,7 @@
 - [archive_20260511_222459](./archive_20260511_222459)
 - [config](./config)
 - [espeak-ng](./espeak-ng)
+- [pytorch_model](./pytorch_model)
 - [setup_eSpeakPlus_v1.1](./setup_eSpeakPlus_v1.1)
 
 ---
