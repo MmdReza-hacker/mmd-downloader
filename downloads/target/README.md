@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `target.spm` |
-| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-fa-en/resolve/main/target.spm |
-| **Date** | 2026-05-11 23:28:26 UTC |
+| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-en-fa/resolve/main/target.spm |
+| **Date** | 2026-05-11 23:30:33 UTC |
 | **Status** | **FAILED** |
 
 ---
