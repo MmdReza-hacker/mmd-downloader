@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `config.json` |
-| **URL** | https://hf-mirror.com/Helsinki-NLP/opus-mt-fa-en/resolve/main/config.json |
-| **Date** | 2026-05-11 23:19:09 UTC |
+| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-fa-en/resolve/main/config.json |
+| **Date** | 2026-05-11 23:25:20 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 404
+Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 401
 ```
 
 ---
