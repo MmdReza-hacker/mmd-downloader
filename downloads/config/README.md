@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `config.json` |
-| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-fa-en/resolve/main/config.json |
-| **Date** | 2026-05-11 23:25:20 UTC |
+| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-en-fa/resolve/main/config.json |
+| **Date** | 2026-05-11 23:29:20 UTC |
 | **Status** | **FAILED** |
 
 ---
