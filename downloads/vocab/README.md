@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `vocab.json` |
-| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-fa-en/resolve/main/vocab.json |
-| **Date** | 2026-05-11 23:30:05 UTC |
+| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-en-fa/resolve/main/vocab.json |
+| **Date** | 2026-05-11 23:31:52 UTC |
 | **Status** | **FAILED** |
 
 ---
