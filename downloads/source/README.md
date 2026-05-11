@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `source.spm` |
-| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-fa-en/resolve/main/source.spm |
-| **Date** | 2026-05-11 23:27:35 UTC |
+| **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-en-fa/resolve/main/source.spm |
+| **Date** | 2026-05-11 23:30:11 UTC |
 | **Status** | **FAILED** |
 
 ---
