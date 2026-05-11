@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `config.json` |
 | **URL** | https://huggingface.co/Helsinki-NLP/opus-mt-en-fa/resolve/main/config.json |
-| **Date** | 2026-05-11 23:29:20 UTC |
+| **Date** | 2026-05-11 23:29:40 UTC |
 | **Status** | **FAILED** |
 
 ---
