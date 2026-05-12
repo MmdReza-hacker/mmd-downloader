@@ -10,6 +10,7 @@
 - [archive_20260511_152404](./archive_20260511_152404)
 - [archive_20260511_155457](./archive_20260511_155457)
 - [archive_20260511_222459](./archive_20260511_222459)
+- [archive_20260512_133306](./archive_20260512_133306)
 - [config](./config)
 - [espeak-ng](./espeak-ng)
 - [pytorch_model](./pytorch_model)
