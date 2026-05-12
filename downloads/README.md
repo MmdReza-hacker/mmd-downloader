@@ -18,6 +18,7 @@
 - [setup_eSpeakPlus_v1.1](./setup_eSpeakPlus_v1.1)
 - [source](./source)
 - [target](./target)
+- [translate-fa_en-1_5](./translate-fa_en-1_5)
 - [vocab](./vocab)
 
 ---
