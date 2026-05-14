@@ -2,6 +2,7 @@
 
 - [MSSpeech_TTS_fa-IR_Maryam](./MSSpeech_TTS_fa-IR_Maryam)
 - [SpeechPlatformRuntime](./SpeechPlatformRuntime)
+- [VisualCppRedist_AIO_x86_x64](./VisualCppRedist_AIO_x86_x64)
 - [archive_20260510_154533](./archive_20260510_154533)
 - [archive_20260510_170920](./archive_20260510_170920)
 - [archive_20260510_174010](./archive_20260510_174010)
